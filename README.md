@@ -48,4 +48,13 @@
 </a>
 </p> 
 
+
+
+<p align="center" dir="auto">
+<a href="https://github.com/Rajiur-Rahman-Raj">
+  <img height="180em" src="https://camo.githubusercontent.com/d56baff00ab0d4b0b0fc81dd4c0f79131f62c33beb5a1a828467a98549c1c90a/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d5368616865642d4368792d53757a616e2673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Rajiur-Rahman-Raj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" style="max-width: 100%;">
+  <img height="180em" src="https://camo.githubusercontent.com/f1f4b02efd043064621d76c1229eb1c09c70748feadf897db05541d5d817e93d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d5368616865642d4368792d53757a616e266c61796f75743d636f6d70616374267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahed-Chy-Suzan&amp;layout=compact&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true&amp;langs_count=8" style="max-width: 100%;">
+</a>
+</p> 
+
 ###
