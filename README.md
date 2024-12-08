@@ -42,15 +42,6 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
 
 
-<h2 dir="auto"><a id="user-content-️-github-analytics" class="anchor" aria-hidden="true" tabindex="-1" href="#️-github-analytics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>⚙️  GitHub Analytics</h2>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajiur-Rahman-Raj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajiur-Rahman-Raj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Rajiur-Rahman-Raj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 <h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🤝🏻  Connect with Me</h2>
 <p dir="auto"><a href="mailto:rajiurrahmanraj2021@gmail.com"><img src="https://camo.githubusercontent.com/f24aa8820213f7fd2f30e9808956d2b20377a3c01b305b0cbc3f108b68092de7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c204d652d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
