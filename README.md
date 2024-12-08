@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-35495E?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat-square&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-F29111?style=flat-square&logo=gitlab)&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
 
 
 
