@@ -36,8 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-35495E?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat-square&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-F29111?style=flat-square&logo=gitlab)&nbsp;
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rajiur-Rahman-Raj.Rajiur-Rahman-Raj)
 
 
 
