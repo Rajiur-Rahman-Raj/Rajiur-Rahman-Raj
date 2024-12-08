@@ -43,17 +43,15 @@
 
 <h2 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🤝🏻  Connect with Me</h2>
 
-<a href="mailto:shahedchysuzan@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://shahed-chy-suzan.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-<a href="https://facebook.com/Shahedchysuzan"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shahed-chy-suzan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/shahed_chy_suzan/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/shahed_suzan"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
-<a href="https://github.com/Shahed-Chy-Suzan"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/Shahed-Chy-Suzan"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/WYGiqlVW8ttW"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
-<a href="https://m.me/Shahedchysuzan"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shahed-Chy-Suzan.Shahed-Chy-Suzan)
+<a href="mailto:rajiurpersonal255@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://rajiur-rahman-raj.github.io/my_resume/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.facebook.com/rajsarkarcse/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajiurrahman/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/rajiur_raj"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://x.com/raj_sorker"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/Rajiur-Rahman-Raj"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
+<a href="https://m.me/rajsarkarcse"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rajiur-Rahman-Raj.Rajiur-Rahman-Raj)
 
 ###
 
