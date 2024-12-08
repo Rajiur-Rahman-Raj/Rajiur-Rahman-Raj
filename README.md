@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As an experienced web tech enthusiast from Bangladesh, I am well-versed in building powerful applications using the powerful combination of Laravel and Vue.js + inertia. Interested in learning frameworks  like Nuxt.js and also Node.js etc. While my primary focus is on the backend, I possess an intermediate proficiency in frontend technologies, allowing me to contribute effectively across the full stack. I like to code with Laravel and Vue Js. I am trying to be more creative and will come back soon with something unique. insha-allah!..</p>
+<p align="left">A dedicated and adaptable software engineer with a strong foundation in computer science and a passion for programming. Backend Software Engineer with expertise in PHP and the Laravel Framework. Skilled in building scalable, efficient web applications, RESTful APIs, and database management. Strong problem solving abilities, with a focus on performance optimization and clean, maintainable code. While my primary focus is on the backend, I possess an intermediate proficiency in frontend technologies, allowing me to contribute effectively across the full stack. Experienced in collaborating with cross-functional teams to deliver.</p>
 
 ###
 
